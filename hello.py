@@ -1,1 +1,1 @@
-print("Mój pierwsszy skryptjhvdbsijnvibv!")
+print("Mój pierwszy skrypt")
