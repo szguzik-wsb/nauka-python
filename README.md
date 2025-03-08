@@ -11,3 +11,20 @@ To jest dalsza czesc opisu
 ```shell
 pip install numpy
 ```
+
+### **Wymagania**
+Mianimalna wersja python 3.11
+
+### **Instrukaja instalacji - lista krokow **
+
+```shell
+python -m venv .venv
+```
+```shell
+.venv/Scripts/activate
+```
+
+
+```shell
+pip install -r requirements.txt 
+```
