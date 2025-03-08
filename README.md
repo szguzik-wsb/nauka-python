@@ -11,3 +11,6 @@ To jest dalsza czesc opisu
 ```shell
 pip install numpy
 ```
+
+### **Wymagania**
+Mianimalna wersja python 3.11
